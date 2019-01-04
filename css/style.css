@@ -1,5 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,400i,600,700');
 
+.no-outline{
+  text-decoration:none;
+  box-shadow:none;
+}
+
 img{
   width:100%;
 }
@@ -17,17 +22,6 @@ a{
 a:hover{
   color:#343a40;
   text-decoration:none;
-}
-
-/*---home page issue item styling---*/
-
-.left-text{
-
-}
-
-
-.right-text{
-
 }
 
 /*---Media Queries --*/
