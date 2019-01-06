@@ -16,7 +16,7 @@ h5{
 /*---Hyperlink styling---*/
 a{
   color: #343A40; 
-  box-shadow: inset 0 0px 0 white, inset 0 -8px 0 #EDBEBF
+  box-shadow: inset 0 0px 0 white, inset 0 -8px 0 #F7E29F
 }
 
 a:hover{
